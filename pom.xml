@@ -11,6 +11,7 @@
 	<groupId>com.ipara</groupId>
 	<artifactId>applyService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>merchantApplyService</name>
 	<description>ipara Merchant Apply Service</description>
 
